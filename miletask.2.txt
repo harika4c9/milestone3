@@ -1,0 +1,9 @@
+<DOCTYPE html>
+<html>
+<body>
+<h1><u>Beautiful wheather</u></h1>
+<p><big>when the wheather is hot,keep</big><br>a cool mind.when the wheather<br>is cold,keep a warm heart.</p>
+<p><big>There's is no such thing as good</big><br>wheather,or bad wheather.There's just<br>wheather and your attitude towards it.</p>
+<img src-"https://www.hepress.com/img/11824963-10152994857355843-233202858979292248-n.jpg"alt="Flowers in chaina"width="460"height="345">
+</html>
+</body>
